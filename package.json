@@ -1,0 +1,23 @@
+{
+  "name": "keepmealive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keepmealive.js",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopoldleopold/keepmealive.git"
+  },
+  "author": "Justin L Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopoldleopold/keepmealive/issues"
+  },
+  "homepage": "https://github.com/leopoldleopold/keepmealive#readme"
+}
